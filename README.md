@@ -49,24 +49,24 @@
   </a>
 </p>
 <p>
-  <h2 align="left">My GitHub Stats</h2>
-  <a href="https://github.com/JoshuaDanielRose/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoshuaDanielRose&theme=vue&border_radius=0&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=Github Statistics&hide_border=true&count_private=true&hide=contribs,issues">
-    </img>
-  </a>
-  <br>
-  <a href="https://github.com/JoshuaDanielRose/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=JoshuaDanielRose&custom_title=Weekly%20Statistics&layout=compact">
-    </img>
-  </a>
-  <!--
-  <a href="https://github.com/JoshuaDanielRose/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaDanielRose">
-    </img>
-  </a>
-  --!>
-</p>
+  <h2 align="left">Statistics</h2>
+    <a href="https://github.com/JoshuaDanielRose/github-readme-stats">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=JoshuaDanielRose&custom_title=Weekly%20Statistics&layout=compact">
+      </img>
+    </a>
+ </p>
+
+<!-- <a href="https://github.com/JoshuaDanielRose/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=JoshuaDanielRose&theme=vue&border_radius=0&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=Github Statistics&hide_border=true&count_private=true&hide=contribs,issues">
+</img>
+</a>
+<br>
+<a href="https://github.com/JoshuaDanielRose/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaDanielRose">
+</img>
+</a>
+</p>  --!>
 
 <h2>Links</h2>
 <div>
