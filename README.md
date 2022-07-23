@@ -1,5 +1,12 @@
 
-### 👋 Hi there! I'm Joshua Rose.
+
+
+<a href="https://github.com/JoshuaDanielRose/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshuaDanielRose&theme=radical&border_radius=20&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=Github Statistics" />
+</a>
+<a href="https://github.com/JoshuaDanielRose/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</a>
 
 * I'm a part time software developer and IT technician 
 * Currently a student living in Sydney, Australia 🦘
@@ -9,4 +16,11 @@
 * Currently doing Graduate Certificate III at Sydney TAFE University in front-end Web and Software development 
 * Completing a Software Design and Development course at WAS
 
-[![wakatime](https://wakatime.com/badge/user/a66594a7-985e-4e5a-b4f6-67f60753b462.svg)](https://wakatime.com/@a66594a7-985e-4e5a-b4f6-67f60753b462)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
