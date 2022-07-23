@@ -60,6 +60,12 @@
       src="https://github-readme-stats.vercel.app/api/wakatime?username=JoshuaDanielRose&custom_title=Weekly%20Statistics&layout=compact">
     </img>
   </a>
+  <!--
+  <a href="https://github.com/JoshuaDanielRose/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaDanielRose">
+    </img>
+  </a>
+  --!>
 </p>
 
 <h2>Links</h2>
