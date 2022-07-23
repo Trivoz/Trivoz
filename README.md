@@ -38,7 +38,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDanielRose&repo=framework"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDanielRose&repo=framework&show_owner=true"
   </img>
 </a>
 
