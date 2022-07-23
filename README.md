@@ -8,24 +8,6 @@
   </ul>
 </p>
 <p>
-  <h2 align="left">Work Experience</h2>
-  <a href="https://www.bravurasolutions.com/australia/">
-    <kbd><img 
-      align="center" 
-      height="100" 
-      src="https://cpp-prod-seek-company-image-uploads.s3.ap-southeast-2.amazonaws.com/814426/logo/657ae531-bcca-11ea-86d1-e52bae5cc086.png"/>
-     </kbd>
-  </a>
-  <a href="https://centelon.com/">
-    &nbsp;
-    <kbd><img 
-      align="center" 
-      height="100" 
-      src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/cihaxvnkshd6s5flqmut"/>
-    </kbd>
-  </a>
-</p>
-<p>
   <h2 align="left">Current Projects</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
@@ -38,6 +20,24 @@
       align="center"
       src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat"
     </img>
+  </a>
+</p>
+<p>
+  <h2 align="left">Work Experience</h2>
+  <a href="https://www.bravurasolutions.com/australia/">
+    <kbd><img 
+      align="center" 
+      height="65" 
+      src="https://cpp-prod-seek-company-image-uploads.s3.ap-southeast-2.amazonaws.com/814426/logo/657ae531-bcca-11ea-86d1-e52bae5cc086.png"/>
+     </kbd>
+  </a>
+  <a href="https://centelon.com/">
+    &nbsp;
+    <kbd><img 
+      align="center" 
+      height="65" 
+      src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/cihaxvnkshd6s5flqmut"/>
+    </kbd>
   </a>
 </p>
 <p>
