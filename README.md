@@ -1,6 +1,8 @@
+<!--
 <p>
   <h1 align="center">👋 Hi, I'm Joshua Rose.</h1>
 </p>
+--!>
 <p>
   <h2 align="left">About Me</h2>
   <ul>
