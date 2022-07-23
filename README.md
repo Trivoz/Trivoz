@@ -9,7 +9,7 @@
 <p>
   <h2 align="left">About Me</h2>
   <ul>
-    <li>I'm primarily a FS software dev <sup><a href="#fn-1">[1]</a></sup></li>
+    <li>I'm primarily a FS software dev <sup><a href="#References">[1]</a></sup></li>
     <li>I currently study as a student living in Sydney, Australia 🦘</li>
     <li>In my spare time I like to produce music using FL Studio and recently Ableton</li>
   </ul>
@@ -61,8 +61,7 @@
   </a>
 </p>
 
-<h6>💾 EOF</h6>
-
+<h2>References</h2>
 <p id="fs-1">
   1. Undertaking a Grad Certificate III at Sydney TAFE University in Web Dev
 </p>
