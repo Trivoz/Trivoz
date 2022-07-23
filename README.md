@@ -9,9 +9,9 @@
 <p>
   <h2 align="left">About Me</h2>
   <ul>
-    <li>I'm a part time software developer and IT technician</li>
+    <li>I work as a part time software developer and IT technician</li>
     <li>I currently study as a student living in Sydney, Australia 🦘</li>
-    <li>In my spare time I like to produce music</li>
+    <li>In my spare time I like to produce music using FL Studio and recently Ableton</li>
     <li>Undertaking a Grad Certificate III at Sydney TAFE University in Web Dev</li> 
   </ul>
 </p>
