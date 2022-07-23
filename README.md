@@ -1,5 +1,5 @@
 <p>
-  <h2 align="center">👋 Hi, I'm Joshua Rose.</h2>
+  <h1 align="center">👋 Hi, I'm Joshua Rose.</h1>
 </p>
 <p>
   <h3 align="left">About Me</h3>
