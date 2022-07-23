@@ -2,7 +2,7 @@
   <h1 align="center">👋 Hi, I'm Joshua Rose.</h1>
 </p>
 <p>
-  <h3 align="left">About Me</h3>
+  <h2 align="left">About Me</h2>
   <ul>
     <li>I'm a part time software developer and IT technician</li>
     <li>I currently study as a student living in Sydney, Australia 🦘</li>
@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  <h3 align="left">Work Experience</h3>
+  <h2 align="left">Work Experience</h2>
   <a href="https://www.bravurasolutions.com/australia/">
     <kbd><img 
       align="center" 
@@ -31,7 +31,7 @@
 </p>
 
 <p>
-  <h3 align="left">Current Projects<h3>
+  <h2 align="left">Current Projects<h2>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
