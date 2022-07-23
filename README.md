@@ -1,8 +1,3 @@
-<!--
-<p>
-  <h1 align="center">👋 Hi, I'm Joshua Rose.</h1>
-</p>
---!>
 <p>
   <h2 align="left">About Me</h2>
   <ul>
@@ -12,7 +7,6 @@
     <li>Undertaking a Grad Certificate III at Sydney TAFE University in Web Dev</li> 
   </ul>
 </p>
-
 <p>
   <h2 align="left">Work Experience</h2>
   <a href="https://www.bravurasolutions.com/australia/">
@@ -31,21 +25,27 @@
     </kbd>
   </a>
 </p>
-
 <p>
-  <h2 align="left">Current Projects<h2>
+  <h2 align="left">Current Projects</h2>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDanielRose&repo=framework&show_owner=true"
+    </img>
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img 
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat"
+    </img>
+  </a>
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDanielRose&repo=framework&show_owner=true"
-  </img>
-</a>
+<p>
+  <h2 align="left">My GitHub Stats</h2>
+  <a href="https://github.com/JoshuaDanielRose/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoshuaDanielRose&theme=vue&border_radius=0&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=Github Statistics&hide_border=true&count_private=true&hide=contribs,issues">
+    </img>
+  </a>
+</p>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img 
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat"
-   </img>
-</a>
-
+<h6>💾 EOF</h6>
