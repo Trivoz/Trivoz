@@ -63,4 +63,6 @@
 
 <h6>💾 EOF</h6>
 
-[^1]: Undertaking a Grad Certificate III at Sydney TAFE University in Web Dev
+<p id="fs-1">
+  1. Undertaking a Grad Certificate III at Sydney TAFE University in Web Dev
+</p>
