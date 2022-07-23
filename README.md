@@ -2,7 +2,7 @@
   <a href="https://github.com/JoshuaDanielRose">
     <img
       align="center"
-      src="https://github.com/JoshuaDanielRose/JoshuaDanielRose/blob/main/res/main.jpg?raw=true"
+      src="https://github.com/JoshuaDanielRose/JoshuaDanielRose/blob/main/res/MAIN.jpg?raw=true"
     </img>
   </a>
 </p>
