@@ -1,4 +1,12 @@
 <p>
+  <a href="https://github.com/JoshuaDanielRose">
+    <img
+      align="center"
+      src="https://github.com/JoshuaDanielRose/JoshuaDanielRose/blob/main/res/main.jpg?raw=true"
+    </img>
+  </a>
+</p>
+<p>
   <h2 align="left">About Me</h2>
   <ul>
     <li>I'm a part time software developer and IT technician</li>
