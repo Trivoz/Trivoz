@@ -61,7 +61,7 @@
   </a>
 </p>
 
-<h2>References</h2>
-<p id="fs-1">
-  1. Undertaking a Grad Certificate III at Sydney TAFE University in Web Dev
-</p>
+<h2>Links</h2>
+<div>
+&nbsp<p id="fs-1"><sup><a href="#About Me">[1] </a>Completing a Graduate Certificate III at Sydney TAFE University in FE Development</sup></p>
+</div>
