@@ -17,7 +17,7 @@
 </p>
 <p>
   <h2 align="left">Current Projects</h2>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/JoshuaDRose/framework/">
     <img 
       align="center" 
       src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDanielRose&repo=framework&show_owner=true"
