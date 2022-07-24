@@ -70,5 +70,5 @@
 
 <h2>Links</h2>
 <div>
-&nbsp<p id="fs-1"><sup><a href="#about-me">[1] </a>Completing a Graduate Certificate III at Sydney TAFE University in FE Development</sup></p>
+&nbsp<p id="fs-1"><sup><a href="#about-me">[1] </a>Completing a Statemement of Attainment in Web Development at TAFE NSW</sup></p>
 </div>
