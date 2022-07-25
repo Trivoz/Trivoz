@@ -14,7 +14,7 @@
     <li>When I'm not programming I'm normally typing on <a href="https://play.typeracer.com/">TypeRacer</a> or <a href="https://monkeytype.com/">MonkeyType</a></li>
     <li>I currently study as a student living in Sydney, Australia 🦘</li>
     <li>In addition to these, I produce music using FL Studio and recently Ableton</li>
-    <li>I use the <i><a href="https://flask.palletsprojects.com/en/2.1.x/">Flask Library</a></i> for Python → front-end code</li>
+    <li>I use the <a href="https://flask.palletsprojects.com/en/2.1.x/">Flask Library</a> for converting Python → front-end code</li>
   </ul>
 </p>
 <p>
