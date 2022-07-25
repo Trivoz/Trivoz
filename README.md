@@ -9,7 +9,7 @@
 <p>
   <h2 align="left">About Me</h2>
   <ul>
-    <li>I'm primarily a front-end software developer <sup><a href="#links">[1]</a></sup></li>
+    <li>I try to be a well-rounded developer <i>(languages listed below)</i> <sup><a href="#links">[1]</a></sup></li>
     <li>Very much interested in game development</li>
     <li>When I'm not programming I'm normally typing on <a href="https://play.typeracer.com/">TypeRacer</a> or <a href="https://monkeytype.com/">MonkeyType</a></li>
     <li>I currently study as a student living in Sydney, Australia 🦘</li>
