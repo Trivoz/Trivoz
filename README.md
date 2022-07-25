@@ -57,20 +57,18 @@
         src="https://github-readme-stats.vercel.app/api/wakatime?username=JoshuaDanielRose&custom_title=Weekly%20Statistics&layout=compact">
       </img>
     </a>
- </p>
-
-<!-- <a href="https://github.com/JoshuaDanielRose/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=JoshuaDanielRose&theme=vue&border_radius=0&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=Github Statistics&hide_border=true&count_private=true&hide=contribs,issues">
-</img>
-</a>
-<br>
-<a href="https://github.com/JoshuaDanielRose/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaDanielRose">
-</img>
-</a>
-</p>  --!>
-
+</p>
+<p>
+  <h2 align="left">Languages</h2>
+  <ul>
+    <li>python3</li>
+    <li>css/html/rtf<sup><a href="#links"> [2]</a></sup></li>
+    <li>powershell<sup><a href="#links"> [2]</a></sup></li>
+  </ul>
+</p>
 <h2>Links</h2>
 <div>
 &nbsp<p id="fs-1"><sup><a href="#about-me">[1] </a>Completing a Statemement of Attainment in Web Development at TAFE NSW</sup></p>
+<p id="fs-2"><sup><a href="#languages">[2] </a>I understand these are markup languages however I'm including them as they are worth noting</sup></p>
+<p id="fs-3"><sup><a href="#languages">[2] </a>I learned powershell throughout my late primary years as a student when messing around with computers</sup></p>
 </div>
