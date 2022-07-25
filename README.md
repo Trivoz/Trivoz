@@ -50,9 +50,9 @@
 </p>
 <p>
   <h2 align="left">Statistics</h2>
-    <a href="https://github.com/JoshuaDanielRose/github-readme-stats">
+    <a href="https://github.com/JoshuaDRose/github-readme-stats">
       <img 
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=JoshuaDanielRose&custom_title=Weekly%20Statistics&layout=compact">
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=JoshuaDRose&custom_title=Weekly%20Statistics&layout=compact">
       </img>
     </a>
  </p>
