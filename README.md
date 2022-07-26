@@ -22,13 +22,13 @@
   <a href="https://github.com/JoshuaDRose/framework/">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=framework&show_owner=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=framework&show_owner=false"
     </img>
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/JoshuaDRose/demo_game">
     <img 
       align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=demo_game"
     </img>
   </a>
 </p>
