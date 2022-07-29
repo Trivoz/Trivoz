@@ -17,16 +17,16 @@
     <li>I use the <a href="https://flask.palletsprojects.com/en/2.1.x/">Flask Library</a> for converting Python → front-end code</li>
   </ul>
 </p>
-<p>
+<!-- <p>
   <h2 align="left">Current Projects</h2>
   <a href="https://github.com/JoshuaDRose/framework/">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=framework&show_owner=false"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=framework"
     </img>
   </a>
 </p>
-<p>
+<p> -->
   <h2 align="left">Work Experience</h2>
   <a href="https://www.bravurasolutions.com/australia/">
     <kbd><img 
