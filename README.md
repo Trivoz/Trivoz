@@ -25,12 +25,6 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=framework&show_owner=false"
     </img>
   </a>
-  <a href="https://github.com/JoshuaDRose/demo_game">
-    <img 
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=demo_game"
-    </img>
-  </a>
 </p>
 <p>
   <h2 align="left">Work Experience</h2>
