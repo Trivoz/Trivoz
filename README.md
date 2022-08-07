@@ -33,8 +33,13 @@
     <li>I've worked in the past with various businesses and schools in IT to try improve assistance quality</li>
   </ul>
 </p>
-<!-- EMPTY BOX TO FILL SPACE BELOW --!>
-<img align="center" height="10px"></img>
+
+
+<!-- 
+        EMPTY BOX TO FILL SPACE BELOW 
+        <img align="center" height="10px"></img>
+--!>
+
 <h2>&nbsp</h2>
 
 <p>
