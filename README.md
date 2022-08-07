@@ -43,7 +43,15 @@
 <h2>&nbsp</h2>
 
 <p>
-  <h3 align="left">I've worked for these companies</h3>
+  <h3>Skills</h3>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vim,neovim,bash,py,html,css,js,react&theme=light"/>
+</p>
+
+<h2>&nbsp</h2>
+
+<p>
+  <h3 align="left">Past Employments</h3>
   <a href="https://www.bravurasolutions.com/australia/">
     <kbd><img 
       align="center" 
