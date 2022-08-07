@@ -34,7 +34,7 @@
   </ul>
 </p>
 <!-- EMPTY BOX TO FILL SPACE BELOW --!>
-<img align="center" height="90px"></img>
+<img align="center" height="10px"></img>
 <h2>&nbsp</h2>
 
 <p>
