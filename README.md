@@ -15,7 +15,7 @@
   </p>
   <p width="20px">
     <ul>
-      <li>I try to be a well-rounded developer <i>(languages listed below)</i> <sup><a href="#links">[1] </sup></a></li>
+      <li>I try to be a well-rounded developer <i>(languages listed below)</i> <sup><a href="#-2">[1] </sup></a></li>
       <li>Very much interested in game development</li>
       <li>When I'm not programming I'm normally typing on <a href="https://play.typeracer.com/">TypeRacer</a> or <a href="https://monkeytype.com/">MonkeyType</a></li>
       <li>I currently study as a student living in Sydney, Australia 🦘</li>
