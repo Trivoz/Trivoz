@@ -15,7 +15,7 @@
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img 
       align="right" 
-      width="240px"
+      width="230px"
       src="https://spotify-github-profile.vercel.app/api/view?uid=q8hkj695x2mvn1uypwrtbvbge&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true"
     </img>
   </a>
@@ -33,7 +33,7 @@
 </p>
 
 <!-- EMPTY BOX TO FILL SPACE BELOW --!>
-<img align="center" height="100px"></img>
+<img align="center" height="130px"></img>
 <br>
 <hr>
 
