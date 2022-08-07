@@ -10,7 +10,6 @@
 <br>
 
 <h2>About me</h2>
-
 <p>
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img 
@@ -21,7 +20,7 @@
   </a>
 </p>
 <p width="20px">
-  <!--<h2 align="left" >About Me</h2>---!>
+  <!--<h2 align="left">About Me</h2>---!>
   <ul>
     <li>I try to be a well-rounded developer <i>(languages listed below)</i> <sup><a href="#links">[1]</a></sup></li>
     <li>Very much interested in game development</li>
@@ -29,15 +28,14 @@
     <li>I currently study as a student living in Sydney, Australia 🦘</li>
     <li>In addition to these, I produce music using FL Studio and recently Ableton</li>
     <li>I use the <a href="https://flask.palletsprojects.com/en/2.1.x/">Flask Library</a> for converting Python → front-end code</li>
+    <li>Certain projects that I've started have a heavy involvement with indie game development which I'm currently learning about</li>
+    <li>My journey with C++ is improving as I am concurrently learning with python as well</li>
+    <li>I've worked in the past with various businesses and schools in IT to try improve assistance quality</li>
   </ul>
 </p>
-
 <!-- EMPTY BOX TO FILL SPACE BELOW --!>
-<img align="center" height="130px"></img>
-<br>
-<hr>
-
-
+<img align="center" height="90px"></img>
+<h2>&nbsp</h2>
 
 <p>
   <h3 align="left">I've worked for these companies</h3>
@@ -66,12 +64,14 @@
   </a>
 </p>
 
-<h2>Links</h2>
-<div>
+
+
+<h2>&nbsp</h2>
+
+
+
 &nbsp<p id="fs-1"><sup><a href="#about-me">[1] </a>Completing a Statemement of Attainment in Web Development at TAFE NSW</sup></p>
-<p id="fs-2"><sup><a href="#languages">[2] </a>I understand these are markup languages however I'm including them as they are worth noting</sup></p>
-<p id="fs-3"><sup><a href="#languages">[3] </a>I learned powershell throughout my late primary years as a student when messing around with computers</sup></p>
-</div>
+
 
 
 
@@ -94,7 +94,9 @@
                                             </a>
                                           </p>
                                           <p> 
-
+<p id="fs-2"><sup><a href="#languages">[2] </a>I understand these are markup languages however I'm including them as they are worth noting</sup></p>
+<p id="fs-3"><sup><a href="#languages">[3] </a>I learned powershell throughout my late primary years as a student when messing around with computers</sup></p>
+</div>
 
                                           <p>
                                             <h2 align="left">Languages</h2>
