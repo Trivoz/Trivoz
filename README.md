@@ -69,13 +69,15 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=Pygame-Framework" />
-  </a>
+  </a> &nbsp&nbsp;
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=PYMAP" />
   </a>
+  <br>
+  <br>
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pygame&repo=pygame" />
-  </a>
+  </a>&nbsp&nbsp;
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonattwood&repo=filesync" />
   </a>
