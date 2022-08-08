@@ -73,6 +73,12 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=PYMAP" />
   </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pygame&repo=pygame" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonattwood&repo=filesync" />
+  </a>
 </p>
 </html>
 
