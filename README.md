@@ -22,7 +22,7 @@
       <li>In addition to these, I produce music using FL Studio and recently Ableton</li>
       <li>I use the <a href="https://flask.palletsprojects.com/en/2.1.x/">Flask Library</a> for converting Python → front-end code</li>
       <li>Certain projects that I've started have a heavy involvement with indie game development which I'm currently learning about</li>
-      <li>My journey with C++ is improving as I am concurrently learning with python as well</li>
+      <li>My journey with C++ is improving as I am concurrently learning it with Python</li>
       <li>I've worked in the past with various businesses and schools in IT to try improve assistance quality</li>
     </ul>
   </p>
