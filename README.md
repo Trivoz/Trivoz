@@ -35,7 +35,7 @@
   <p>
     <p>
       <h3>Skills</h3>
-      <img src="https://skillicons.dev/icons?i=vim,neovim,bash,py,html,css,js,react,figma,flask,powershell,vscode&theme=light"/>
+      <img src="https://skillicons.dev/icons?i=vim,py,html,css&theme=light"/>
     </p>
     <p>
       <h3 align="left">Past Employments</h3>
