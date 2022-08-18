@@ -13,11 +13,8 @@ set shiftwidth=4
 set expandtab
 
 " KEYBINDINGS - IMPORTANT NOT TO FUCK UP
-set backspace=indent,eol,start
-inoremap z' <esc>
-
-
 inoremap <esc> :echo "Escape remapped to z'"<CR>
+inoremap z' <ESC>
 
 nnoremap <Left> <Nop>
 vnoremap <Left> <Nop>
