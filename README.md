@@ -15,15 +15,13 @@
   </p>
   <p width="20px">
     <ul>
-      <li>I try to be a well-rounded developer <i>(languages listed below)</i> <sup><a href="#-2">[1] </sup></a></li>
-      <li>Very much interested in game development</li>
+      <li>I am learning C# for it's efficiency and it's usefulness for indie game development.<i></i> <sup><a href="#-2">[1] </sup></a></li>
+      <li>Heavily interested in game development</li>
       <li>When I'm not programming I'm normally typing on <a href="https://play.typeracer.com/">TypeRacer</a> or <a href="https://monkeytype.com/">MonkeyType</a></li>
-      <li>I currently study as a student living in Sydney, Australia 🦘</li>
-      <li>In addition to these, I produce music using FL Studio and recently Ableton</li>
-      <li>I use the <a href="https://flask.palletsprojects.com/en/2.1.x/">Flask Library</a> for converting Python → front-end code</li>
+      <li>I'm currently a student living in Sydney, Australia</li>
+      <li>I use the <a href="https://flask.palletsprojects.com/en/2.1.x/">Flask Library</a>, html and css for front-end projects</li>
       <li>Certain projects that I've started have a heavy involvement with indie game development which I'm currently learning about</li>
-      <li>My journey with C++ is improving as I am concurrently learning it with Python</li>
-      <li>I've worked in the past with various businesses and schools in IT to try improve assistance quality</li>
+      <li>I've worked in the past with various businesses and schools in IT to improve assistance quality</li>
     </ul>
   </p>
   <!-- 
@@ -35,7 +33,7 @@
   <p>
     <p>
       <h3>Skills</h3>
-      <img src="https://skillicons.dev/icons?i=vim,py,html,css&theme=light"/>
+      <img src="https://skillicons.dev/icons?i=vim,py,html,css,flask,md,neovim"/>
     </p>
     <p>
       <h3 align="left">Past Employments</h3>
