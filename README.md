@@ -8,11 +8,6 @@
   <br>
   
   <h2>About me</h2>
-  <p>
-    <!-- <a href="https://github.com/kittinan/spotify-github-profile">
-      <img align="right" width="230px" src="https://spotify-github-profile.vercel.app/api/view?uid=q8hkj695x2mvn1uypwrtbvbge&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true"/>
-    </a>
-  </p> --->
   <p width="20px">
     <ul>
       <li>I am learning C# for it's efficiency and it's usefulness for indie game development.<i></i> <sup><a href="#-2">[1] </sup></a></li>
@@ -29,7 +24,11 @@
           <img align="center" height="10px"></img>
   --->
   <h2>&nbsp</h2>
-
+  <p>
+    <a href="https://github.com/kittinan/spotify-github-profile">
+      <img align="right" width="230px" src="https://spotify-github-profile.vercel.app/api/view?uid=q8hkj695x2mvn1uypwrtbvbge&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true"/>
+    </a>
+  </p>
   <p>
     <p>
       <h3>Skills</h3>
