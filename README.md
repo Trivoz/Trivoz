@@ -10,13 +10,9 @@
   <h2>About me</h2>
   <p width="20px">
     <ul>
-      <li>I am learning C# for it's efficiency and it's usefulness for indie game development.<i></i> <sup><a href="#-2">[1] </sup></a></li>
-      <li>Heavily interested in game development</li>
       <li>When I'm not programming I'm normally typing on <a href="https://play.typeracer.com/">TypeRacer</a> or <a href="https://monkeytype.com/">MonkeyType</a></li>
       <li>I'm currently a student living in Australia</li>
-      <li>I use <code><a href="https://flask.palletsprojects.com/en/2.1.x/">Flask</a></code>, <code>html</code> and <code>css</code> for front-end projects</li>
       <li>Most projects I work on are related to indie game-dev</li>
-      <li>I've worked in the past with various businesses and schools in IT to improve assistance quality</li>
     </ul>
   </p>
   <!-- 
@@ -120,4 +116,6 @@
       </img>
     </a>
   </p>
+        <li>I am learning C# for it's efficiency and it's usefulness for indie game development.<i></i> <sup><a href="#-2">[1] </sup></a></li>
+
 --->
