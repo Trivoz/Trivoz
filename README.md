@@ -54,27 +54,7 @@
   <p>
     <p id="fs-1"><sup><a href="#about-me">[1]</a>Completing a Statemement of Attainment in Web Development at TAFE NSW</sup></p>
   </p>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=Pygame-Framework" />
-  </a> &nbsp&nbsp;
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=PYMAP" />
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pygame&repo=pygame" />
-  </a>&nbsp&nbsp;
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonattwood&repo=filesync" />
-  </a>
-</p>
+
 </html>
 
 <!--
@@ -102,7 +82,27 @@
                                                 <li>powershell<sup><a href="#links"> [3]</a></sup></li>
                                               </ul>
                                             </p>
-
+<br>
+<br>
+<br>
+<br>
+<hr>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=Pygame-Framework" />
+  </a> &nbsp&nbsp;
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaDRose&repo=PYMAP" />
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pygame&repo=pygame" />
+  </a>&nbsp&nbsp;
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonattwood&repo=filesync" />
+  </a>
+</p>
 
 
 
