@@ -1,1 +1,4 @@
 *.vim
+*.py
+*.html
+*.css
