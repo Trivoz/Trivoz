@@ -12,9 +12,9 @@
 
 <br>
 
-<h2>About me</h2>
+<h2 align="left">About me</h2>
 
-<p width="20px">
+<p align="left" width="20px">
 
 <ul>
 
@@ -32,11 +32,36 @@
 
 <p>
 
-<h2>Languages and Tools</h2>
+<h2 align="left">Languages and Tools</h2>
 
-<h3>Environments</h3>
+<!-- <img src="https://skillicons.dev/icons?i=vim,py,html,css,neovim,cs,git,githubactions"/> -->
 
-<img src="https://skillicons.dev/icons?i=vim,py,html,css,neovim,cs,git,githubactions"/>
+<h3 align="left">Environments</h3>
+<a href="https://github.com/neovim/neovim"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt"image" width="40" height="40" border="0"/>
+<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt"image" width="40" height="40" border="0"/></a>
+
+<h3>OOP</h3>
+<a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" alt"image" width="40" height="40" border="0"/></>
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.png" alt"image" width="40" height="40" border="0"/></>
+
+<h3>Webdev Langs</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt"image" width="40" height="40" border="0"/></>
+  <a href="https://daringfireball.net/projects/markdown/syntax"><img src="https://skillicons.dev/icons?i=md&theme=dark" alt"image" width="40" height="40" border="0"/></>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt"image" width="40" height="40" border="0"/></>
+<a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt"image" width="40" height="40" border="0"/></>
+<!-- <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" alt"image" width="55" height="40" border="0"/></> -->
+
+
+<h3>Design</h3>
+<a href="https://www.adobe.com/au/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cia.imgix.net/files/blog/full/image238.jpg" alt="photoshop-icon" border="0" width="40" height="40"/></a>
+<a href="https://www.adobe.com/au/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
+<a href="https://www.adobe.com/au/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png" alt="Premiere Pro Icon" width="40" height="40"/></a>
+
+<h3>Versioning Tools</h3>
+<a href="https://about.gitlab.com/"><img src="https://user-images.githubusercontent.com/101031214/189024231-f624d473-0c42-402a-97ab-a464b208b5ef.png" alt"image" width="40" height="40" border="0"/></>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://desktop.github.com/"><img src="https://i.ibb.co/7KZpZkL/1024px-Github-desktop-logo-symbol-svg.png" height="40" width="40" alt="1024px-Github-desktop-logo-symbol-svg" border="0"></a>
+
 
 </p>
 
@@ -71,14 +96,6 @@
 <p>
 
 <p align="left"><sup><a href="#about-me">[1]</a>Completing a Statemement of Attainment in Web Development at TAFE NSW</sup></p>
-
-</p>
-
-<h2>&nbsp</h2>
-
-<p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JoshuaDRose"/>
 
 </p>
 
