@@ -22,7 +22,7 @@
 
 <li>I'm currently a student living in Australia</li>
 
-<li>Most projects I work on are related to indie game-dev</li>
+<li>Fun Fact: <i>Most projects I work on are actually just indie games!</i></li>
 
 </ul>
 
