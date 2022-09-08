@@ -44,24 +44,24 @@
       </a>
       <h2>&nbsp</h2>
     </p>
-    <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoshuaDRose"/>
-    </p>
 
+  
   </p>
-  <h2>&nbsp</h2>
 
-  <p>
-    <p id="fs-1"><sup><a href="#about-me">[1]</a>Completing a Statemement of Attainment in Web Development at TAFE NSW</sup></p>
-  </p>
-<br>
-<br>
-<br>
-<br>
-<hr>
 <p align="center">
   <img width=670 src="https://wakatime.com/share/@JoshuaDanielRose/e2ba8d26-2211-4707-b990-3eff8cd96e4d.svg"/>
 </p>
+
+<br>
+  <h2>Achievements</h2>
+  <p>
+    <p align="left"><sup><a href="#about-me">[1]</a>Completing a Statemement of Attainment in Web Development at TAFE NSW</sup></p>
+  </p>
+<h2>&nbsp</h2>
+
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoshuaDRose"/>
+  </p>
 </html>
 
 <!--
