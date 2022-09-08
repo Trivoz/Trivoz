@@ -54,7 +54,8 @@
   <p>
     <p id="fs-1"><sup><a href="#about-me">[1]</a>Completing a Statemement of Attainment in Web Development at TAFE NSW</sup></p>
   </p>
-
+<br>
+<figure><embed src="https://wakatime.com/share/@JoshuaDanielRose/e2ba8d26-2211-4707-b990-3eff8cd96e4d.svg"></embed></figure>
 </html>
 
 <!--
