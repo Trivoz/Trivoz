@@ -1,54 +1,68 @@
-call plug#begin('C:/Users/rosej/AppData/Local/nvim/plugged') 
-" below are some vim plugins for demonstration purpose.
-" " add the plugin you want to use here.
-Plug 'joshdick/onedark.vim'
-Plug 'iCyMind/NeoSolarized'
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'junegunn/vim-easy-align'
-Plug 'https://github.com/junegunn/vim-github-dashboard.git'
-Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
-Plug 'tpope/vim-fireplace', { 'for': 'clojure' }
-Plug 'rdnetto/YCM-Generator', { 'branch': 'stable' }
-Plug 'fatih/vim-go', { 'tag': '*' }
-Plug 'nsf/gocode', { 'tag': 'v.20150303', 'rtp': 'vim' }
-Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
-Plug 'vim-airline/vim-airline'
+echo "Vimrc loaded from ~/.config/nvim/init.vim"
+call plug#begin()
+Plug 'ellisonleao/gruvbox.nvim'
+Plug 'kyazdani42/nvim-web-devicons'
+Plug 'hoob3rt/lualine.nvim'
+Plug 'brooth/far.vim'
+Plug 'junegunn/fzf.vim'
+Plug 'neovim/nvim-lspconfig'
+Plug 'junegunn/fzf'
+Plug 'nvim-telescope/telescope-fzf-native.nvim'
+Plug 'glepnir/lspsaga.nvim'
+Plug 'LinArcX/telescope-command-palette.nvim'
+Plug 'Verf/telescope-everything.nvim'
+Plug 'ThePrimeagen/vim-be-good'
+Plug 'ThePrimeagen/harpoon'
+Plug 'jonls/redshift'
+Plug 'andweeb/presence.nvim'
+Plug 'neoclide/coc.nvim'
+Plug 'nvim-lua/popup.nvim'
+Plug 'wakatime/vim-wakatime'
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim'
+Plug 'ryanoasis/vim-devicons'
+Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+Plug 'sainnhe/everforest'
+Plug 'sharkdp/fd'
+Plug 'scrooloose/nerdtree'
+Plug 'lsdr/monokai'
+Plug 'bling/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'itchyny/screensaver.vim'
+Plug 'enricobacis/vim-airline-clock'
 call plug#end()
 
-" disable wrapping
 set nowrap
-
-" font settings
 set encoding=UTF-8
-
-" tab settings
 set tabstop=4
 set shiftwidth=4
 set expandtab
-
-" KEYBINDINGS - IMPORTANT NOT TO FUCK UP
-inoremap z' <ESC>
-
-nnoremap <Left> <Nop>
-vnoremap <Left> <Nop>
-inoremap <Left> <Nop>
-
-nnoremap <Right> <Nop>
-vnoremap <Right> <Nop>
-inoremap <Right> <Nop>
-
-nnoremap <Up> <Nop>
-vnoremap <Up> <Nop>
-inoremap <Up> <Nop>
-
-nnoremap <Down> <Nop>
-vnoremap <Down> <Nop>
-inoremap <Down> <Nop>
-
-imap <Bs> BACK
-imap <Del> DELETE
-
-
-" Allow backspacing over everything in insert mode.
 set backspace=indent,eol,start
+set invrelativenumber
+set statusline=\PATH:\ %r%F\ \ \ \ \LINE:\ %l/%L/%P\ TIME:\ %{strftime('%c')}
+
+" nmap ; :Telescope<CR>
+nnoremap <silent> ;f <cmd>Telescope find_files<cr>
+nnoremap <silent> ;r <cmd>Telescope live_grep<cr>
+nnoremap <silent> \\ <cmd>Telescope buffers<cr>
+nnoremap <silent> ;; <cmd>Telescope help_tags<cr>
+
+nmap <C-L><C-L> :set invrelativenumber<CR>
+inoremap z' <ESC>
+nnoremap <silent>K :Lspsaga hover_doc<CR>
+inoremap <silent> <C-k> <Cmd>Lspsaga signature_help<CR>
+nnoremap <silent> gh <Cmd>Lspsaga lsp_finder<CR>
+nnoremap <silent> <C-j> :Lspsaga diagnostic_jump_next<CR>
+nmap qq :wqa<CR>
+set background=dark
+colorscheme gruvbox
+
+let g:vim_be_good_log_file = 1 " Set vim to log files
+let g:airline#extentions#tabline#enabled = 1 " Enable buffers
+let g:airline#extensions#clock#format = '%H:%M:%S'
+let g:airline#extensions#clock#updatetime = 1000
+
+autocmd User TelescopePreviewerLoaded setlocal wrap
+autocmd VimEnter * NERDTree
+autocmd VimEnter * wincmd w
+" command! Scratch lua require'tools'.makeScratch()
