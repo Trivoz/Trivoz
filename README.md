@@ -8,9 +8,9 @@
 
 </a>
 
-</p>
+[![wakatime](https://wakatime.com/badge/user/a66594a7-985e-4e5a-b4f6-67f60753b462.svg?style=for-the-badge)](https://wakatime.com/@a66594a7-985e-4e5a-b4f6-67f60753b462)
 
-<br>
+</p>
 
 <h2 align="left">About me</h2>
 
