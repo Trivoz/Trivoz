@@ -4,14 +4,19 @@
 
 <a href="https://github.com/JoshuaDanielRose">
 
-<img align="center" src="https://github.com/JoshuaDanielRose/JoshuaDanielRose/blob/main/res/MAIN.jpg?raw=true"/>
+<!-- <img align="center" src="https://github.com/JoshuaDanielRose/JoshuaDanielRose/blob/main/res/MAIN.jpg?raw=true"/> -->
 
 </a>
-
-[![wakatime](https://wakatime.com/badge/user/a66594a7-985e-4e5a-b4f6-67f60753b462.svg?style=for-the-badge)](https://wakatime.com/@a66594a7-985e-4e5a-b4f6-67f60753b462)
-
+<div align="center">
+  <a href="https://wakatime.com/@a66594a7-985e-4e5a-b4f6-67f60753b462">
+    <img align="center" src="https://wakatime.com/badge/user/a66594a7-985e-4e5a-b4f6-67f60753b462.svg?style=for-the-badge"/>
+  </a>
+  <img align="center" src="https://img.shields.io/discord/308323056592486420?color=lightblue&label=Discord&logo=discord&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.youtube.com/channel/UCgxxvRZFqbo9FVs7yE3h1_A">
+    <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCgxxvRZFqbo9FVs7yE3h1_A?logo=youtube&style=for-the-badge"/>
+  </a>
+</div>
 </p>
-
 <h2 align="left">About me</h2>
 
 <p align="left" width="20px">
