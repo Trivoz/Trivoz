@@ -1,91 +1,189 @@
-echo "Vimrc loaded from ~/.config/nvim/init.vim"
-call plug#begin()
-Plug 'ellisonleao/gruvbox.nvim'
-Plug 'kyazdani42/nvim-web-devicons'
-Plug 'hoob3rt/lualine.nvim'
-Plug 'brooth/far.vim'
-Plug 'junegunn/fzf.vim'
-Plug 'neovim/nvim-lspconfig'
-Plug 'andweeb/presence.nvim'
-Plug 'junegunn/fzf'
-Plug 'ekickx/clipboard-image.nvim'
-Plug 'nvim-telescope/telescope-fzf-native.nvim'
-Plug 'glepnir/lspsaga.nvim'
-Plug 'LinArcX/telescope-command-palette.nvim'
-Plug 'Verf/telescope-everything.nvim'
-Plug 'ThePrimeagen/vim-be-good'
-Plug 'ThePrimeagen/harpoon'
-Plug 'jonls/redshift'
-Plug 'andweeb/presence.nvim'
-Plug 'neoclide/coc.nvim'
-Plug 'nvim-lua/popup.nvim'
-Plug 'wakatime/vim-wakatime'
-Plug 'nvim-lua/plenary.nvim'
-Plug 'nvim-telescope/telescope.nvim'
-Plug 'ryanoasis/vim-devicons'
-Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
-Plug 'sainnhe/everforest'
-Plug 'sharkdp/fd'
-Plug 'scrooloose/nerdtree'
-Plug 'lsdr/monokai'
-Plug 'bling/vim-airline'
-Plug 'vim-airline/vim-airline-themes'
-Plug 'itchyny/screensaver.vim'
-Plug 'enricobacis/vim-airline-clock'
-call plug#end()
+" init.vim
+" Mainainer: Joshua Rose
+" Version 2.1
 
 set nowrap
-set encoding=UTF-8
+
+if has('autocmd')
+  filetype plugin indent on
+endif
+if has('syntax') && !exists('g:syntax_on')
+  syntax enable
+endif
+
+set backspace=indent,eol,start
+
+" coc-related binds
+set complete-=i
+set nrformats-=octal
+
+" tab settings
+set smarttab
+set expandtab
 set tabstop=4
 set shiftwidth=4
-set expandtab
-set backspace=indent,eol,start
-set invrelativenumber
-set statusline=\PATH:\ %r%F\ \ \ \ \LINE:\ %l/%L/%P\ TIME:\ %{strftime('%c')}
 
-" nmap ; :Telescope<CR>
-nnoremap <silent> ;f <cmd>Telescope find_files<cr>
-nnoremap <silent> ;r <cmd>Telescope live_grep<cr>
-nnoremap <silent> \\ <cmd>Telescope buffers<cr>
-nnoremap <silent> ;; <cmd>Telescope help_tags<cr>
+if !has('nvim') && &ttimeoutlen == -1
+  set ttimeout
+  set ttimeoutlen=100
+endif
+
+set incsearch
+set invrelativenumber
+
+if &t_Co == 8 && $TERM !~# '^Eterm'
+  set t_Co=16
+endif
+
+set autoread
+
+" https://stackoverflow.com/questions/356126/how-can-you-automatically-remove-trailing-whitespace-in-vim
+autocmd BufWritePre *.py :%s/\s\+$//e
+
+if empty(mapcheck('<C-L><C-L>'))
+endif
 
 nmap <C-L><C-L> :set invrelativenumber<CR>
+
+" Force mandatory leader change
 inoremap z' <ESC>
-nnoremap <silent>K :Lspsaga hover_doc<CR>
-inoremap <silent> <C-k> <Cmd>Lspsaga signature_help<CR>
-nnoremap <silent> gh <Cmd>Lspsaga lsp_finder<CR>
-nnoremap <silent> <C-j> :Lspsaga diagnostic_jump_next<CR>
 nmap qq :wqa<CR>
+
+if findfile('plugin/vimbegood', &rtp) ==# ''
+  let g:vim_be_good_log_file = 1
+endif
+
+if findfile('plugin/telescope', &rtp) ==# ''
+  nnoremap <silent> ;f <cmd>Telescope find_files<cr>
+  nnoremap <silent> ;r <cmd>Telescope live_grep<cr>
+  nnoremap <silent> \\ <cmd>Telescope buffers<cr>
+  nnoremap <silent> ;; <cmd>Telescope help_tags<cr>
+  autocmd User TelescopePreviewerLoaded setlocal wrap
+endif  
+
+if findfile('plugin/airline', &rtp) ==# ''
+  let g:airline#extentions#tabline#enabled = 1
+  let g:airline#extentions#clock#format = '%H:%M:%S'
+  let g:airline#extentions#clock#updatetime = 1000
+endif
+
+call plug#begin()
+  " Dependancy plugins
+  Plug 'sharkdp/fd'
+  Plug 'BurntSushi/ripgrep'
+  Plug 'sainnhe/everforest'
+  Plug 'nvim-lua/plenary.nvim'
+
+  " Syntax highlighting
+  Plug 'ellisonleao/gruvbox.nvim'
+
+  " Aesthetically p l e a s i n g
+  Plug 'nvim-lualine/lualine.nvim'
+  Plug 'kyazdani42/nvim-web-devicons'
+  Plug 'ryanoasis/vim-devicons'
+
+  " Quality of life plugins
+  Plug 'junegunn/vim-easy-align'
+
+  " Completion plugins
+  Plug 'neoclide/coc.nvim'
+  
+  " File management
+  Plug 'junegunn/fzf'
+
+  " Blazingly Fast!
+  Plug 'ThePrimeagen/harpoon'
+  Plug 'ThePrimeagen/vim-be-good'
+
+  " file-gui managers
+  Plug 'scrooloose/nerdtree'
+  Plug 'nvim-telescope/telescope.nvim'
+
+  " Trackers
+  Plug 'wakatime/vim-wakatime'
+  Plug 'tpope/vim-fugitive'
+  Plug 'tpope/vim-rhubarb'
+
+  " Social plugins
+  Plug 'andweeb/presence.nvim'
+
+  " NvCHAD Plugins
+  Plug 'sheerun/vim-polyglot'
+  Plug 'folke/which-key.nvim'
+  Plug 'lewis6991/gitsigns.nvim'
+call plug#end()
+
+" Supress warnings and providers in :checkhealth reports
+let g:python3_host_prog = 'C:\ProgramData\scoop\shims\python3.exe'
+let g:loaded_ruby_provider = 0
+let g:loaded_perl_provider = 0
+
+" custom commands
+function! Wpy()
+    exec winheight(0)/4."split" | terminal python3 %
+endfunction
+
+" Invoke debug for discord rpc
+" let g:presence_log_level = "debug"
+" allow rpc to detect: on line l of lines 
+let g:presence_enable_line_number = 1
+
 set background=dark
 colorscheme gruvbox
 
-let g:vim_be_good_log_file = 1 " Set vim to log files
-let g:airline#extentions#tabline#enabled = 1 " Enable buffers
-let g:airline#extensions#clock#format = '%H:%M:%S'
-let g:airline#extensions#clock#updatetime = 1000
+" map tab to autocomplete coc commands
+inoremap <silent><expr> <TAB>
+      \ coc#pum#visible() ? coc#pum#next(1) :
+      \ CheckBackspace() ? "\<Tab>" :
+      \ coc#refresh()
+inoremap <expr><S-TAB> coc#pum#visible() ? coc#pum#prev(1) : "\<C-h>"
 
-autocmd User TelescopePreviewerLoaded setlocal wrap
-autocmd VimEnter * NERDTree
-autocmd VimEnter * wincmd w
-" command! Scratch lua require'tools'.makeScratch()
-" General options
-let g:presence_auto_update         = 1
-let g:presence_neovim_image_text   = "The One True Text Editor"
-let g:presence_main_image          = "neovim"
-let g:presence_client_id           = "793271441293967371"
-let g:presence_log_level
-let g:presence_debounce_timeout    = 10
-let g:presence_enable_line_number  = 0
-let g:presence_blacklist           = []
-let g:presence_buttons             = 1
-let g:presence_file_assets         = {}
-let g:presence_show_time           = 1
+" Modify auto response time for coc
+set updatetime=300
+" prevent shifting text
+set signcolumn=yes
 
-" Rich Presence text options
-let g:presence_editing_text        = "Editing %s"
-let g:presence_file_explorer_text  = "Browsing %s"
-let g:presence_git_commit_text     = "Committing changes"
-let g:presence_plugin_manager_text = "Managing plugins"
-let g:presence_reading_text        = "Reading %s"
-let g:presence_workspace_text      = "Working on %s"
-let g:presence_line_number_text    = "Line %s out of %s"
+" Use <c-space> to trigger completion
+inoremap <silent><expr> <c-space> coc#refresh()
+
+" shows documentation in a separate window
+nnoremap <silent> K :call ShowDocumentation()<CR>
+
+lua << EOF
+require('lualine').setup {
+  options = {
+    theme = 'auto',
+    component_separators = { left = '|', right = '|'},
+    section_separators = { left = '', right = ''},
+    ignore_focus = {},
+  },
+  sections = {
+    lualine_a = {'mode'},
+    lualine_b = {'branch', 'diff', {
+        'diagnostics', sources={'nvim_lsp', 'coc'}}},
+    lualine_c = {'filename'},
+    lualine_x = {'encoding', 'fileformat', 'filetype'},
+    lualine_y = {'progress'},
+    lualine_z = {'location'}
+  },
+  inactive_sections = {
+    lualine_a = {},
+    lualine_b = {},
+    lualine_c = {'filename'},
+    lualine_x = {'location'},
+    lualine_y = {},
+    lualine_z = {}
+  },
+  tabline = {
+    lualine_a = {},
+    lualine_b = {},
+    lualine_c = {'buffers'},
+    lualine_x = {},
+    lualine_y = {},
+    lualine_z = {'tabs'}
+  },
+  extensions = {}
+}
+EOF
+
+nnoremap <C-Z> :call Wpy() <CR>
