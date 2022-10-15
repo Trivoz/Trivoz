@@ -8,11 +8,17 @@ on:
   schedule: [{cron: "0 16 * * *"}]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-
+      - name: setting up token
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
       - name: Spotify - Top artists
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
