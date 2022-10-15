@@ -33,7 +33,7 @@ jobs:
           plugin_music_top_type: artists
 
       - name: Icons
-        if: ${{ success() || failure() }
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.icons.svg
