@@ -10,6 +10,7 @@ on:
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
+
   metrics:
     runs-on: ubuntu-latest
     permissions:
@@ -30,6 +31,17 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           plugin_music_time_range: long
           plugin_music_top_type: artists
+
+      - name: Icons
+        if: ${{ success() || failure() }
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
 
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
