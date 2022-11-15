@@ -1,7 +1,5 @@
 <div align="center">
   
-  <img align="center" width="auto" src="https://badge.stateful.com/JoshuaDRose/status.svg">
-  
   <img align="center" src="https://badge.stateful.com/JoshuaDRose/dnd.svg">
   
 </div>
