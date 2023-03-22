@@ -1,4 +1,4 @@
 
   - CI advocate
   - Tkinter and PyGame
-  - I 💙 [Tox](tox.wiki)
+  - [I 💙 Tox](tox.wiki)
