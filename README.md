@@ -4,5 +4,5 @@
   🛸 Playing: Detroit: Become Human, Repentance<br>
   📖 Reading: ~The Holy Bible~ The Two Towers - Tolkien<br> 
   🎧 Listening to: <br> </samp>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q8hkj695x2mvn1uypwrtbvbge&cover_image=true&theme=natemoo-re)](https://github.com/GH-Syn/spotify-github-profile) <br>
+[![spotify-github-profile]([![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q8hkj695x2mvn1uypwrtbvbge&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=q8hkj695x2mvn1uypwrtbvbge&redirect=true)) <br>
 
