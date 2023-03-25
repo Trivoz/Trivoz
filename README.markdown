@@ -1,4 +1,4 @@
 
   - CI advocate
   - Tkinter and PyGame
-  - [I 💙 Tox](tox.wiki)
+  - Last seen: 55 years ago ricing linux
