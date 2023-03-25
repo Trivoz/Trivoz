@@ -1,11 +1,5 @@
-
-
-  - CI advocate
-  - Tkinter and PyGame
-  - Last seen: 55 years ago ricing linux
-
 <img align="left" width="240" src="[https://i.postimg.cc/jSbsYbgK/octocat-1607474030530.png](https://tenor.com/bLwY3.gif)"> <samp> 👋 Hi there<br>
-  👩🏼‍💻 Programming: game dev things<br> 
+  👩🏼‍💻 Last seen: 55 years ago ricing linux
   🌁 Based: ~Australia~ yes.<br>
   🛸 Playing: Detroit: Become Human, Repentance<br>
   📖 Reading: ~The Holy Bible~ The Two Towers - Tolkien<br> 
