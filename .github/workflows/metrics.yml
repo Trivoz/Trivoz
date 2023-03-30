@@ -23,4 +23,4 @@ jobs:
       - name: Record coding activity
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: wakatime --entity @${{ github.repository }} --file ${GITHUB_WORKSPACE}/${{ github.event.inputs.file }} --plugin neovim --write
+        run: wakatime --entity @${{ github.repository }} --file ${GITHUB_WORKSPACE}/.wakatime.db --plugin neovim --write
