@@ -1,26 +1,20 @@
-name: Wakatime
+name: Wakatime Stats
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
-  build:
+  wakatime:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v2
-
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.x
-
-      - name: Install Wakatime CLI
+          python-version: "3.x"
+      - name: Install dependencies
         run: pip install wakatime
-
-      - name: Record coding activity
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: wakatime --entity @${{ github.repository }} --file ${GITHUB_WORKSPACE}/.wakatime.db --plugin neovim --write
+      - name: Update WakaTime stats
+        run: wakatime --entity @GH-Syn/GH-Syn --file ${GITHUB_WORKSPACE}/ --plugin neovim --write
