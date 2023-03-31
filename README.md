@@ -1,5 +1,5 @@
 <img align="left" width="240" src="https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif"> <samp> <br>
-  👨‍💻 Last seen: 55 years ago ricing linux<br>
+  👨‍💻 Last seen: 500 years ago ricing linux<br>
   🌁 Based: ~Australia~ yes.<br>
   🛸 Playing: Detroit: Become Human, Repentance<br>
   📖 Reading: ~The Holy Bible~ The Two Towers - Tolkien<br> 
