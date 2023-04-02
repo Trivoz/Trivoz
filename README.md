@@ -1,5 +1,5 @@
 <img align="left" width="240" src="https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif"> <samp> <br>
-  👨‍💻 Last seen: 500 years ago ricing linux<br>
+  👨‍💻 Last seen: probably ricing linux<br>
   🌁 Based: ~Australia~ yes.<br>
   📖 Reading: "Silent Spring" by Rachel Carson <br> 
   </samp>
