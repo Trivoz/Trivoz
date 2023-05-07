@@ -1,8 +1,8 @@
 <samp>
-  <h6>About Me</h6>
+  <h5>About Me</h5>
   🇦🇺 Located: Sydney, Australia<br>
   🧛 Reading: The Art of Code, Jason Woyak <br> 
-  <h6>Languages</h6>
+  <h5>Languages</h5>
   🥇 Favourite language: Rust
   <br>
   🗃️ Most common language: Python
