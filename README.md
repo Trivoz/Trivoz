@@ -1,6 +1,11 @@
-<samp> <br>
+<samp>
+  <h6>About Me</h6>
   🇦🇺 Located: Sydney, Australia<br>
   🧛 Reading: The Art of Code, Jason Woyak <br> 
+  <h6>Languages</h6>
+  🥇 Favourite language: Rust
+  <br>
+  🗃️ Most common language: Python
   </samp>
   <br>
 <!--   <img align="left" width="240" src="https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif">  -->
