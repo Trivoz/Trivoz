@@ -1,7 +1,7 @@
 <samp>
   <h4>About Me</h4>
   🇦🇺 Located: Sydney, Australia<br>
-  🧛 Reading: The Art of Code, Jason Woyak <br> 
+  🧛 Reading: Stoicism and the Art of Happiness (Donald Robertson)<br> 
   <h4>Languages</h4>
   🥇 Favourite language: Rust
   <br>
