@@ -16,6 +16,7 @@
  - **Favourite languages**: Rust, Go, Mojo<br>
  - **Disliked languages**: Vimscript, Prolog
 
+<!--
 ### Real-world languages I can speak (besides code)
  - **English**: Fluent in both American and British accents
  - **French**: Can order croissants and baguettes like a pro
@@ -24,6 +25,6 @@
  - **German**: Can pronounce _"Bier"_ and _"Bratwurst"_ correctly, which is all that really matters
 
 </samp>
-<!--   <img align="left" width="240" src="https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif">  -->
+   <img align="left" width="240" src="https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif">  -->
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q8hkj695x2mvn1uypwrtbvbge&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=q8hkj695x2mvn1uypwrtbvbge&redirect=true)<br>
  -->
