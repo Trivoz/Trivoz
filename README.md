@@ -1,6 +1,5 @@
 ### About Me
   - **Located**: Sydney, Australia
-  - **Real Name**: [redacted]
   - **Occupation (kinda):** Student at MQ university 
 
 ### Hobbies
@@ -10,7 +9,6 @@
 ### I'm passionate about
   - **VCS**: Always looking for how I can integrated best practices into codebases.
   - **Linux**: "Your computer should be your servant, not your master." (*Richard Stallman*)
-  - **Equality**: I advocate for disabled students' rights against unfair treatment by private academic institutions.
 
 ### Languages
  - **Favourite languages**: Rust, Go, Mojo<br>
