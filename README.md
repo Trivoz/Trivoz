@@ -7,7 +7,7 @@
   - **Music**: Guitar (7 years), piano (4 years), producer (~2-3 years), singer (in shower)
 
 ### I'm passionate about
-  - **VCS**: Always looking for how I can integrated best practices into codebases.
+  - **VCS**: Always looking to integrate best practices into various codebases
   - **Linux**: "Your computer should be your servant, not your master." (*Richard Stallman*)
 
 ### Languages
