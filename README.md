@@ -11,8 +11,9 @@
   - **Linux**: "Your computer should be your servant, not your master." (*Richard Stallman*)
 
 ### Languages
- - **Favourite languages**: Rust, Go, Mojo :fire:<br>
- - **Disliked languages**: Vimscript, Prolog
+ - **Languages I like**: Processing (sometimes)
+ - **Love-hate relationships**: Python, Rust
+ - **I want to improve at**: Javascript for p5.js
 
 <!--
 ### Real-world languages I can speak (besides code)
