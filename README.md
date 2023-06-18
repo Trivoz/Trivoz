@@ -36,17 +36,18 @@ how ****ed the whole thing is. No one gives a **** about the glib object model.
 
 <html>
   <div align="center">
-    <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white">
-      <a href="https://gh-syn.github.io/Blog/"></a></img>   
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      <a href="https://www.linkedin.com/in/joshua-rose-80b8a8276/"></a>
-    </img>   
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-      <a href="https://leetcode.com/cyr3/"></a>   
-    </img>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-      <a href="https://app.slack.com/client/T05CMJF10R5/C05D4HJBV36"></a>
-    </img>
-    
+    <a href="https://gh-syn.github.io/Blog/">
+      <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/joshua-rose-80b8a8276/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://leetcode.com/cyr3/">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+    </a>
+    <a href="https://app.slack.com/client/T05CMJF10R5/C05D4HJBV36">
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+    </a>
   </div>
 </html>
+
