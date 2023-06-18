@@ -1,4 +1,8 @@
-Hi there :wave: I'm a student at MQ university, Sydney Australia
+Hi there :wave: 
+
+My name is Joshua Rose.
+
+I'm a student at MQ university, Sydney Australia
 
 ##### Talk to me about:
 
