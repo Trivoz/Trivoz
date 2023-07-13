@@ -3,4 +3,4 @@
  
  I'm studying software engineering at Macquarie University.
 
- You can check out more of my stuff on my [blog](https://JoshuaDRose.github.io/)
+ [![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://joshuadrose.github.io/feeds/all.atom.xml)
