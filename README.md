@@ -3,7 +3,7 @@
  
  I'm studying software engineering at Macquarie University.
 
-I write blogs sometimes, I'm a huge fan of @latex markdown, and I'm always willing to talk open source :)
+I write blogs sometimes, I'm a huge fan/supporter of [the latex project](http://www.latex-project.org/) markdown, and I'm always willing to talk open source :)
  <h1></h1>
 
 [![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://joshuadrose.github.io/feeds/all.atom.xml)
