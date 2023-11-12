@@ -1,8 +1,11 @@
 <br>
 <div align="center">
  <i>I'm just a dude building software one test at a time.</i>
+ <br><br>
+
+ <a href="https://joshuadrose.github.io/why-i-use-linux.html">Why I use Linux</a>
+
 </div>
-<br><br>
 
 __Stuff I made / am working on__
 
