@@ -1,11 +1,3 @@
-<br>
-<div align="center">
- <i>I'm just a dude building software one test at a time.</i>
- <br><br>
-
- <a href="https://joshuadrose.github.io/why-i-use-linux.html">Why I use Linux</a>
-
-</div>
 
 __Stuff I made / am working on__
 
@@ -16,11 +8,8 @@ __Stuff I made / am working on__
  - [system monitor (sm)](https://github.com/JoshuaDRose/sm)
 
 
-~__Loyal simps__~ *Inspiring fellas*:
+###
+---
 
- - [ThePrimeagen](https://github.com/ThePrimeagen)
- - [TJ](https://github.com/tjdevries)
- - [Tim Pope](https://github.com/tpope)
- - [Junegunn](https://github.com/junegunn)
-
-
+![git merge](https://github.com/JoshuaDRose/JoshuaDRose/assets/101031214/1927cd27-6418-4b05-b11f-4ee554f041df)
+> a very fitting representation of what my git skills are like
