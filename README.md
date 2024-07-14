@@ -1,10 +1,8 @@
 
-__Stuff I made / am working on__
+__Stuff I made__
 
- - [My ✨ new ✨ Vim config](https://github.com/Trivoz/.vim)
  - [UrbanCli](https://github.com/Trivoz/urban-cli)
- - [Type~Racer~ scraper!](https://github.com/Trivoz/TypeScraper)
- - [taskr](https://github.com/Trivoz/taskr)
+ - [Type~Racer~ scraper](https://github.com/Trivoz/TypeScraper)
  - [system monitor (sm)](https://github.com/Trivoz/sm)
 
 
