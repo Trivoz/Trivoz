@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a "software developer" working on various projects. I am studying software engineering full-time at university and in my free time I like to do game jams, and mess around with typesetting and maths.
+You can expect a very random publishing schedule regarding this blog, as I am unfortunately a very disorganised person - something I try to work on. I talk about whatever is on my mind, and if you think
+what I write might be something you're interested in then feel free to stick around :)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
